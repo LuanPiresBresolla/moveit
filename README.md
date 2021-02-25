@@ -73,8 +73,6 @@ $ yarn start
 
 <br>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
-
 ---
 
 By [Luan Bresolla](https://github.com/LuanPiresBresolla)
